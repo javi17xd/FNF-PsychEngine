@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hold it.png">
+<SubTexture name="hold it idle0000" x="0" y="0" width="256" height="192" frameX="0" frameY="0" frameWidth="256" frameHeight="192" />
+<SubTexture name="hold it idle0001" x="0" y="192" width="256" height="190" frameX="0" frameY="-1" frameWidth="256" frameHeight="192" />
+<SubTexture name="hold it idle0002" x="256" y="192" width="254" height="190" frameX="0" frameY="-1" frameWidth="256" frameHeight="192" />
+<SubTexture name="hold it idle0003" x="512" y="0" width="254" height="190" frameX="-2" frameY="-2" frameWidth="256" frameHeight="192" />
+<SubTexture name="hold it idle0004" x="256" y="192" width="254" height="190" frameX="0" frameY="0" frameWidth="256" frameHeight="192" />
+<SubTexture name="hold it idle0005" x="512" y="0" width="254" height="190" frameX="-2" frameY="-1" frameWidth="256" frameHeight="192" />
+<SubTexture name="hold it idle0006" x="256" y="192" width="254" height="190" frameX="0" frameY="0" frameWidth="256" frameHeight="192" />
+<SubTexture name="hold it idle0007" x="512" y="0" width="254" height="190" frameX="-2" frameY="-1" frameWidth="256" frameHeight="192" />
+<SubTexture name="hold it idle0008" x="256" y="192" width="254" height="190" frameX="0" frameY="-2" frameWidth="256" frameHeight="192" />
+<SubTexture name="hold it idle0009" x="0" y="382" width="256" height="190" frameX="0" frameY="-1" frameWidth="256" frameHeight="192" />
+<SubTexture name="hold it idle0010" x="256" y="0" width="256" height="192" frameX="0" frameY="0" frameWidth="256" frameHeight="192" />
+</TextureAtlas>
