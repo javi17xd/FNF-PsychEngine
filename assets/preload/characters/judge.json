@@ -1,0 +1,65 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1350,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "judge idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1350,
+				12
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "judge blink",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1350,
+				12
+			],
+			"anim": "warning",
+			"fps": 24,
+			"name": "judge warning",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/judge",
+	"position": [
+		710,
+		-600
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		975,
+		-315
+	],
+	"sing_duration": 4,
+	"scale": 3.95,
+	"_editor_isPlayer": false
+}

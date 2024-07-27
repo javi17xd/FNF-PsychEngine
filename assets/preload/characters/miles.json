@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "miles idle"
+		},
+		{
+			"offsets": [
+				54,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "miles left"
+		},
+		{
+			"offsets": [
+				142,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "miles down"
+		},
+		{
+			"offsets": [
+				-14,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "miles up"
+		},
+		{
+			"offsets": [
+				120,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "miles right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/miles",
+	"position": [
+		1005,
+		227
+	],
+	"healthicon": "miles",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		56,
+		88
+	],
+	"camera_position": [
+		-855,
+		-245
+	],
+	"sing_duration": 4,
+	"scale": 4,
+	"_editor_isPlayer": false
+}

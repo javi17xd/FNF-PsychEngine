@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "phoenix idle"
+		},
+		{
+			"offsets": [
+				51,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "phoenix left0"
+		},
+		{
+			"offsets": [
+				51,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "phoenix left miss"
+		},
+		{
+			"offsets": [
+				29,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "phoenix down0"
+		},
+		{
+			"offsets": [
+				29,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "phoenix down miss"
+		},
+		{
+			"offsets": [
+				6,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "phoenix up0"
+		},
+		{
+			"offsets": [
+				6,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "phoenix up miss"
+		},
+		{
+			"offsets": [
+				-5,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "phoenix right0"
+		},
+		{
+			"offsets": [
+				-5,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "phoenix right miss"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/phoenix",
+	"position": [
+		-475,
+		197
+	],
+	"healthicon": "phoenix",
+	"flip_x": true,
+	"healthbar_colors": [
+		57,
+		90,
+		140
+	],
+	"camera_position": [
+		80,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 4,
+	"_editor_isPlayer": true
+}
