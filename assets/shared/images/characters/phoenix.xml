@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phoenix.png">
+<SubTexture name="phoenix down0000" x="0" y="869" width="165" height="126" frameX="-11" frameY="-31" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down0001" x="0" y="869" width="165" height="126" frameX="-11" frameY="-31" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down0002" x="981" y="140" width="162" height="129" frameX="-11" frameY="-28" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down0003" x="981" y="140" width="162" height="129" frameX="-11" frameY="-28" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix left0000" x="160" y="0" width="131" height="146" frameX="-17" frameY="-18" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left0001" x="160" y="0" width="131" height="146" frameX="-17" frameY="-18" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left0002" x="291" y="0" width="140" height="146" frameX="-19" frameY="-15" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left0003" x="291" y="0" width="140" height="146" frameX="-19" frameY="-15" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix right0000" x="161" y="296" width="246" height="144" frameX="-12" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right0001" x="161" y="296" width="246" height="144" frameX="-12" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right0002" x="571" y="0" width="248" height="143" frameX="-8" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right0003" x="571" y="0" width="248" height="143" frameX="-8" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix up0000" x="0" y="0" width="160" height="150" frameX="-4" frameY="-1" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up0001" x="0" y="0" width="160" height="150" frameX="-4" frameY="-1" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up0002" x="0" y="296" width="161" height="145" frameX="-5" frameY="-5" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up0003" x="0" y="296" width="161" height="145" frameX="-5" frameY="-5" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up0004" x="571" y="143" width="162" height="143" frameX="-5" frameY="-6" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up0005" x="571" y="143" width="162" height="143" frameX="-5" frameY="-6" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix idle0000" x="0" y="727" width="171" height="142" frameX="-1" frameY="-8" frameWidth="172" frameHeight="159" />
+<SubTexture name="phoenix idle0001" x="171" y="727" width="168" height="142" frameX="-3" frameY="-5" frameWidth="172" frameHeight="159" />
+<SubTexture name="phoenix idle0002" x="339" y="727" width="164" height="142" frameX="-4" frameY="-4" frameWidth="172" frameHeight="159" />
+<SubTexture name="phoenix idle0003" x="667" y="727" width="164" height="140" frameX="-4" frameY="-6" frameWidth="172" frameHeight="159" />
+<SubTexture name="phoenix idle0004" x="981" y="0" width="164" height="140" frameX="-4" frameY="-6" frameWidth="172" frameHeight="159" />
+<SubTexture name="phoenix idle0005" x="503" y="727" width="164" height="142" frameX="-4" frameY="-4" frameWidth="172" frameHeight="159" />
+<SubTexture name="phoenix idle0006" x="503" y="727" width="164" height="142" frameX="-4" frameY="-4" frameWidth="172" frameHeight="159" />
+<SubTexture name="phoenix idle0007" x="503" y="727" width="164" height="142" frameX="-4" frameY="-4" frameWidth="172" frameHeight="159" />
+<SubTexture name="phoenix idle0008" x="503" y="727" width="164" height="142" frameX="-4" frameY="-4" frameWidth="172" frameHeight="159" />
+<SubTexture name="phoenix idle0009" x="503" y="727" width="164" height="142" frameX="-4" frameY="-4" frameWidth="172" frameHeight="159" />
+<SubTexture name="phoenix idle0010" x="503" y="727" width="164" height="142" frameX="-4" frameY="-4" frameWidth="172" frameHeight="159" />
+<SubTexture name="phoenix idle0011" x="503" y="727" width="164" height="142" frameX="-4" frameY="-4" frameWidth="172" frameHeight="159" />
+<SubTexture name="phoenix idle0012" x="503" y="727" width="164" height="142" frameX="-4" frameY="-4" frameWidth="172" frameHeight="159" />
+<SubTexture name="phoenix down miss0000" x="0" y="869" width="165" height="126" frameX="-11" frameY="-31" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down miss0001" x="0" y="869" width="165" height="126" frameX="-11" frameY="-31" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down miss0002" x="981" y="269" width="162" height="129" frameX="-11" frameY="-28" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down miss0003" x="981" y="269" width="162" height="129" frameX="-11" frameY="-28" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down miss0004" x="981" y="398" width="162" height="129" frameX="-11" frameY="-28" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down miss0005" x="981" y="398" width="162" height="129" frameX="-11" frameY="-28" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down miss0006" x="981" y="527" width="162" height="129" frameX="-11" frameY="-28" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down miss0007" x="981" y="527" width="162" height="129" frameX="-11" frameY="-28" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down miss0008" x="981" y="656" width="162" height="129" frameX="-11" frameY="-28" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down miss0009" x="981" y="656" width="162" height="129" frameX="-11" frameY="-28" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down miss0010" x="819" y="143" width="162" height="129" frameX="-11" frameY="-28" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down miss0011" x="819" y="143" width="162" height="129" frameX="-11" frameY="-28" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down miss0012" x="981" y="398" width="162" height="129" frameX="-11" frameY="-28" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix down miss0013" x="981" y="398" width="162" height="129" frameX="-11" frameY="-28" frameWidth="208" frameHeight="171" />
+<SubTexture name="phoenix left miss0000" x="160" y="0" width="131" height="146" frameX="-17" frameY="-18" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left miss0001" x="160" y="0" width="131" height="146" frameX="-17" frameY="-18" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left miss0002" x="0" y="150" width="140" height="146" frameX="-19" frameY="-15" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left miss0003" x="0" y="150" width="140" height="146" frameX="-19" frameY="-15" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left miss0004" x="140" y="150" width="140" height="146" frameX="-19" frameY="-15" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left miss0005" x="140" y="150" width="140" height="146" frameX="-19" frameY="-15" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left miss0006" x="280" y="150" width="140" height="146" frameX="-19" frameY="-15" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left miss0007" x="280" y="150" width="140" height="146" frameX="-19" frameY="-15" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left miss0008" x="431" y="0" width="140" height="146" frameX="-19" frameY="-15" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left miss0009" x="431" y="0" width="140" height="146" frameX="-19" frameY="-15" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left miss0010" x="431" y="146" width="140" height="146" frameX="-19" frameY="-15" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left miss0011" x="431" y="146" width="140" height="146" frameX="-19" frameY="-15" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left miss0012" x="140" y="150" width="140" height="146" frameX="-19" frameY="-15" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix left miss0013" x="140" y="150" width="140" height="146" frameX="-19" frameY="-15" frameWidth="188" frameHeight="198" />
+<SubTexture name="phoenix right miss0000" x="161" y="296" width="246" height="144" frameX="-12" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right miss0001" x="161" y="296" width="246" height="144" frameX="-12" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right miss0002" x="571" y="286" width="248" height="143" frameX="-8" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right miss0003" x="571" y="286" width="248" height="143" frameX="-8" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right miss0004" x="0" y="441" width="248" height="143" frameX="-8" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right miss0005" x="0" y="441" width="248" height="143" frameX="-8" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right miss0006" x="248" y="441" width="248" height="143" frameX="-8" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right miss0007" x="248" y="441" width="248" height="143" frameX="-8" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right miss0008" x="496" y="441" width="248" height="143" frameX="-8" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right miss0009" x="496" y="441" width="248" height="143" frameX="-8" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right miss0010" x="0" y="584" width="248" height="143" frameX="-8" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right miss0011" x="0" y="584" width="248" height="143" frameX="-8" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right miss0012" x="0" y="441" width="248" height="143" frameX="-8" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix right miss0013" x="0" y="441" width="248" height="143" frameX="-8" frameY="-7" frameWidth="261" frameHeight="168" />
+<SubTexture name="phoenix up miss0000" x="0" y="0" width="160" height="150" frameX="-4" frameY="-1" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up miss0001" x="0" y="0" width="160" height="150" frameX="-4" frameY="-1" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up miss0002" x="407" y="296" width="162" height="143" frameX="-5" frameY="-6" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up miss0003" x="407" y="296" width="162" height="143" frameX="-5" frameY="-6" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up miss0004" x="248" y="584" width="162" height="143" frameX="-5" frameY="-6" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up miss0005" x="248" y="584" width="162" height="143" frameX="-5" frameY="-6" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up miss0006" x="410" y="584" width="162" height="143" frameX="-5" frameY="-6" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up miss0007" x="410" y="584" width="162" height="143" frameX="-5" frameY="-6" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up miss0008" x="572" y="584" width="162" height="143" frameX="-5" frameY="-6" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up miss0009" x="572" y="584" width="162" height="143" frameX="-5" frameY="-6" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up miss0010" x="819" y="0" width="162" height="143" frameX="-5" frameY="-6" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up miss0011" x="819" y="0" width="162" height="143" frameX="-5" frameY="-6" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up miss0012" x="248" y="584" width="162" height="143" frameX="-5" frameY="-6" frameWidth="174" frameHeight="155" />
+<SubTexture name="phoenix up miss0013" x="248" y="584" width="162" height="143" frameX="-5" frameY="-6" frameWidth="174" frameHeight="155" />
+</TextureAtlas>

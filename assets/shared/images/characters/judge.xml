@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="judge.png">
+<SubTexture name="judge idle0000" x="0" y="0" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge blink0000" x="118" y="0" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge blink0001" x="118" y="0" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge blink0002" x="0" y="96" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge blink0003" x="0" y="96" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge blink0004" x="118" y="0" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge blink0005" x="118" y="0" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0000" x="0" y="0" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0001" x="118" y="96" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0002" x="236" y="0" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0003" x="118" y="96" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0004" x="236" y="96" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0005" x="118" y="96" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0006" x="236" y="0" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0007" x="118" y="96" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0008" x="118" y="0" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0009" x="0" y="96" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0010" x="118" y="0" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0011" x="118" y="96" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0012" x="236" y="0" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0013" x="118" y="96" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0014" x="236" y="96" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0015" x="118" y="96" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0016" x="236" y="0" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge speak0017" x="118" y="96" width="118" height="96" frameX="-69" frameY="-35" frameWidth="256" frameHeight="192" />
+<SubTexture name="judge warning0000" x="0" y="192" width="118" height="95" frameX="-69" frameY="-36" frameWidth="256" frameHeight="192" />
+</TextureAtlas>

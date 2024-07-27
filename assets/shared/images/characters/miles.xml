@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="miles.png">
+<SubTexture name="miles right0000" x="0" y="306" width="188" height="144" frameX="-27" frameY="-28" frameWidth="252" frameHeight="193" />
+<SubTexture name="miles right0001" x="0" y="306" width="188" height="144" frameX="-27" frameY="-28" frameWidth="252" frameHeight="193" />
+<SubTexture name="miles right0002" x="441" y="0" width="177" height="146" frameX="-33" frameY="-29" frameWidth="252" frameHeight="193" />
+<SubTexture name="miles right0003" x="441" y="0" width="177" height="146" frameX="-33" frameY="-29" frameWidth="252" frameHeight="193" />
+<SubTexture name="miles right0004" x="188" y="306" width="171" height="140" frameX="-49" frameY="-31" frameWidth="252" frameHeight="193" />
+<SubTexture name="miles right0005" x="188" y="306" width="171" height="140" frameX="-49" frameY="-31" frameWidth="252" frameHeight="193" />
+<SubTexture name="miles right0006" x="0" y="450" width="159" height="138" frameX="-55" frameY="-32" frameWidth="252" frameHeight="193" />
+<SubTexture name="miles right0007" x="0" y="450" width="159" height="138" frameX="-55" frameY="-32" frameWidth="252" frameHeight="193" />
+<SubTexture name="miles right0008" x="0" y="450" width="159" height="138" frameX="-55" frameY="-32" frameWidth="252" frameHeight="193" />
+<SubTexture name="miles right0009" x="0" y="450" width="159" height="138" frameX="-55" frameY="-32" frameWidth="252" frameHeight="193" />
+<SubTexture name="miles down0000" x="307" y="450" width="171" height="117" frameX="-31" frameY="-63" frameWidth="252" frameHeight="193" />
+<SubTexture name="miles down0001" x="307" y="450" width="171" height="117" frameX="-31" frameY="-63" frameWidth="252" frameHeight="193" />
+<SubTexture name="miles down0002" x="618" y="0" width="169" height="115" frameX="-33" frameY="-56" frameWidth="252" frameHeight="193" />
+<SubTexture name="miles down0003" x="618" y="0" width="169" height="115" frameX="-33" frameY="-56" frameWidth="252" frameHeight="193" />
+<SubTexture name="miles idle0000" x="159" y="450" width="148" height="136" frameX="-6" frameY="-20" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles idle0001" x="274" y="159" width="143" height="140" frameX="-9" frameY="-14" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles idle0002" x="0" y="159" width="138" height="147" frameX="-13" frameY="-8" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles idle0003" x="138" y="159" width="136" height="147" frameX="-15" frameY="-8" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles idle0004" x="304" y="0" width="137" height="148" frameX="-14" frameY="-7" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles idle0005" x="304" y="0" width="137" height="148" frameX="-14" frameY="-7" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles idle0006" x="304" y="0" width="137" height="148" frameX="-14" frameY="-7" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles idle0007" x="304" y="0" width="137" height="148" frameX="-14" frameY="-7" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles idle0008" x="304" y="0" width="137" height="148" frameX="-14" frameY="-7" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles idle0009" x="304" y="0" width="137" height="148" frameX="-14" frameY="-7" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles idle0010" x="304" y="0" width="137" height="148" frameX="-14" frameY="-7" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles idle0011" x="304" y="0" width="137" height="148" frameX="-14" frameY="-7" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles left0000" x="359" y="306" width="156" height="140" frameX="-2" frameY="-13" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles left0001" x="359" y="306" width="156" height="140" frameX="-2" frameY="-13" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles left0002" x="441" y="146" width="154" height="141" frameX="-7" frameY="-12" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles left0003" x="441" y="146" width="154" height="141" frameX="-7" frameY="-12" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles up0000" x="153" y="0" width="151" height="158" frameX="-2" frameY="0" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles up0001" x="153" y="0" width="151" height="158" frameX="-2" frameY="0" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles up0002" x="0" y="0" width="153" height="159" frameX="-7" frameY="0" frameWidth="162" frameHeight="162" />
+<SubTexture name="miles up0003" x="0" y="0" width="153" height="159" frameX="-7" frameY="0" frameWidth="162" frameHeight="162" />
+</TextureAtlas>
